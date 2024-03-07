@@ -111,7 +111,7 @@ class OTP extends StatelessWidget {
                         );
                         }
                     //GoRouter.of(context).push('/navbar');
-                  },
+                  }, text: '',
                 ),
                 SizedBox(
                   height: 30,

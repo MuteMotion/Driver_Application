@@ -2,9 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:mute_motion/core/utils/constant.dart';
-import 'package:mute_motion/feature/searsh/lastestsearchwidget%20(2).dart';
-
-
+import 'package:mute_motion/feature/searsh/lastestsearchwidget.dart';
 
 class SearchScreen extends StatefulWidget{
   SearchScreen({ Key?key}):super(key: key);

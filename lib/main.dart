@@ -2,9 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:mute_motion/core/utils/AppRouter.dart';
 import 'package:mute_motion/feature/resgisterscreen/provider/auth_provider.dart';
 import 'package:provider/provider.dart';
-
- void main() {
+import 'package:permission_handler/permission_handler.dart';
+ void main() async {
   runApp(const MyApp());
+
 }
 
 class MyApp extends StatelessWidget {

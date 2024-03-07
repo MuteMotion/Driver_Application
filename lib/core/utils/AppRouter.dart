@@ -6,6 +6,7 @@ import 'package:mute_motion/feature/cardetaials/view/cardetailsscreen%20.dart';
 import 'package:mute_motion/feature/chat/view/chat_screen.dart';
 import 'package:mute_motion/feature/login/presentation/views/loginview.dart';
 import 'package:mute_motion/feature/map/view/map.dart';
+import 'package:mute_motion/feature/map/view/mapbody.dart';
 import 'package:mute_motion/feature/my_orders/view/my_orders_screen.dart';
 import 'package:mute_motion/feature/navbar/view/navbar_roots.dart';
 import 'package:mute_motion/feature/notifaction/view/Notification_screen.dart';
@@ -14,6 +15,7 @@ import 'package:mute_motion/feature/presentation/SplashView.dart';
 import 'package:mute_motion/feature/profile/view/profile_screen.dart';
 import 'package:mute_motion/feature/resgisterscreen/view/resgisterscreen.dart';
 import 'package:mute_motion/feature/searsh/lastestsearchwidget.dart';
+import 'package:mute_motion/feature/searsh/search_screen.dart';
 import 'package:mute_motion/feature/signs/view/signs.dart';
 import 'package:mute_motion/feature/traslator/view/translator_screen.dart';
 
